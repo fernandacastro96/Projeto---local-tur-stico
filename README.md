@@ -33,7 +33,7 @@ Este projeto foi desenvolvido como parte do meu aprendizado na Formação Fullst
 
 ## 📸 Preview
 
-![Preview do projeto](Assets/preview.jpg)
+![Preview do projeto](Preview.JPG)
 
 
 
